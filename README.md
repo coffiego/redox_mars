@@ -5,7 +5,7 @@ This photochemistry model is originally developed by Chaffin+2017.
 Original code can be found from the link below:
 https://github.com/planetarymike/chaffin_natgeo_mars_photochemistry
 
-The code is used in Koyama+20(submitted to ApJ)
+The code is used in Koyama+21(ApJ, inpress)
 
 This code is modified by Koyama to investigate the self-regulation of H & O
 escape from atmospheres of early Mars.
